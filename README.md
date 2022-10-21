@@ -75,10 +75,18 @@ This one was probably the hardest one conceptually among all of the tests, howev
 </p>
 </details>
 
-# DAY 6 [(Number Memory)](https://github.com/EgeEken/Number)
+# DAY 6 [(Number Memory Test)](https://github.com/EgeEken/Numbers)
 
-(stay tuned)
+This one should have been one of if not the easiest, but i decided to add a nice looking animation for the timer instead of letting the players just guess when it's going to be over or adding an ugly text timer, that took some time but i think the result was worth it. Plus i spent a significant amount of time going through my code over and over again to fix errors, although i ended up finding a solution to the problem thats been in most of the previous ones, which was that the inputs in the waiting period carried over to the play period. This is a problem caused by time.sleep() and the solution was a very crude one but it worked so i'll take it.
 
-# DAY 7 [(Typing ](https://github.com/EgeEken/Typing)[and Verbal Memory)](https://github.com/EgeEken/Verbal)
+<details><summary>Demonstration (click here to open)</summary>
+<p>
+
+![number memory gameplay_Trim](https://user-images.githubusercontent.com/96302110/197221144-029c8fe8-9b3e-40a1-afa8-0dcc2ac0d58b.gif)
+
+</p>
+</details>
+
+# DAY 7 [(Typing ](https://github.com/EgeEken/Typing) and [Verbal Memory Test)](https://github.com/EgeEken/Verbal)
 
 (stay tuned)
