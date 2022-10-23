@@ -4,7 +4,7 @@ https://humanbenchmark.com
 This website has 8 games where you can test various skills you have ranging from your reaction time to short term memory, you can save your results to compare yourself to friends or the entire world with the percentile stat on your profile. As someone who's pretty good at these games, <details><summary>(my stats)</summary>
 <p>
 
-![image](https://user-images.githubusercontent.com/96302110/197067109-71c92af4-45aa-4748-b1fe-064ba2cbb09d.png)
+![image](https://user-images.githubusercontent.com/96302110/197370437-55811916-0efe-4eec-b034-7a5e101a9f4c.png)
 
 </p>
 </details>
