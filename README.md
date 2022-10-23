@@ -91,4 +91,12 @@ These two were possibly the easiest ones so i decided to do two in one day, but 
 
 # DAY 7 [(Typing)](https://github.com/EgeEken/Typing)
 
-(stay tuned)
+I expected this one to be the easiest, but turns out it is shockingly hard, first off, there is no built in way to wrap text around a screen or even just a given section in PyGame, which is insane already, but also the way i implemented text wrapping made it impossible to make new words wrap the way they should even if we know the length they're going to have, which causes this irritating visual error where the new words will just continue without wrapping until you hit the edge where they suddenly snap to where they were supposed to be from the start, i spent so much time trying to fix this error and i couldn't achieve anything. This is definitely the day where i had the biggest disconnect between the amount of time and effort i expected to spend versus the amount i actually ended up spending. But i am very proud to say that i did it, i achieved my goal, in a week, i recreated all 8 human benchmark games on pygame.
+
+<details><summary>Demonstrations (click here to open)</summary>
+<p>
+
+![typing gameplay trim (2)](https://user-images.githubusercontent.com/96302110/197369222-66c8fb94-851f-4f1b-9451-ac3bdea7244c.gif)
+
+</p>
+</details>
