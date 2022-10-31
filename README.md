@@ -108,7 +108,7 @@ About a week after i was done with this project, i decided to add all of them to
 <details><summary>Demonstrations (click here to open)</summary>
 <p>
 
-![image](https://user-images.githubusercontent.com/96302110/199059941-d1a0a57b-01ad-4c81-bec1-f29259bad71f.png)
+![all](https://user-images.githubusercontent.com/96302110/199062018-108665e7-7db1-4162-8e8a-3cd50c955f46.gif)
 
 </p
 </details>
