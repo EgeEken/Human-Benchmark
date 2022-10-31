@@ -4,7 +4,7 @@ https://humanbenchmark.com
 This website has 8 games where you can test various skills you have ranging from your reaction time to short term memory, you can save your results to compare yourself to friends or the entire world with the percentile stat on your profile. As someone who's pretty good at these games, <details><summary>(my stats)</summary>
 <p>
 
-![image](https://user-images.githubusercontent.com/96302110/197370437-55811916-0efe-4eec-b034-7a5e101a9f4c.png)
+![image](https://user-images.githubusercontent.com/96302110/199059106-96558b75-3faa-434e-9373-146586416151.png)
 
 </p>
 </details>
@@ -99,4 +99,16 @@ I expected this one to be the easiest, but turns out it is shockingly hard, firs
 ![typing gameplay trim (2)](https://user-images.githubusercontent.com/96302110/197369222-66c8fb94-851f-4f1b-9451-ac3bdea7244c.gif)
 
 </p>
+</details>
+
+# EXTRA
+
+About a week after i was done with this project, i decided to add all of them together into one file so that it's easier and faster to switch between games, so i combined all of them into one 1000 line long python file, i only had to make minor changes to make them all work together thanks to the usage of object oriented programming allowing for direct access to the game classes rather than having to repurpose each function to work with each game which would have taken a long time, even though it would also end up being much shorter as a file, thankfully we dont live in the 1970s anymore and a 40 kb python file isn't much of an issue.
+
+<details><summary>Demonstrations (click here to open)</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/96302110/199059941-d1a0a57b-01ad-4c81-bec1-f29259bad71f.png)
+
+</p
 </details>
